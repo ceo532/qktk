@@ -1,0 +1,6 @@
+{
+  "name": "ielts-task1-error-quiz",
+  "description": "Web app trắc nghiệm tiếng Anh luyện các lỗi thường gặp trong IELTS Writing Task 1 dành cho học sinh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
